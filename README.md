@@ -1,4 +1,4 @@
-# Hello! I'm Enrique 👋
+# Hello! I'm Alejandro 👋
 
 🎓 **Computer Engineering Student** at the National Autonomous University of Mexico (UNAM)  
 🌐 **Aspiring Full-Stack Developer** with a passion for web development  
@@ -9,9 +9,6 @@
 ## About Me
 
 I'm currently pursuing my degree in Computer Engineering at the [Faculty of Engineering, UNAM](https://www.fi.unam.mx/). My journey into the world of development began with a curiosity for how technology shapes the way we interact with the world. Since then, I've been honing my skills in **web development**, working with a variety of tools and frameworks to bring ideas to life.
-
-### What drives me?  
-I’m deeply passionate about creating intuitive, dynamic, and efficient web applications. From crafting seamless user experiences on the **frontend**, to building powerful and scalable logic on the **backend**. I believe in the power of code to solve real-world problems and I’m committed to becoming a versatile developer who can do it all.
 
 ---
 
